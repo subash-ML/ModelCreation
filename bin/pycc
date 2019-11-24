@@ -1,0 +1,3 @@
+#!/Users/subash/Desktop/Programming/NewDynasty/Galaxy/Machine Learning/Projects/Project1/machineLearningEnv/bin/python
+from numba.pycc import main
+main()
